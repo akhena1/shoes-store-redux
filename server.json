@@ -1,0 +1,66 @@
+{
+    "stock": [
+        {
+            "id": 1,
+            "amount": 3
+        },
+        {
+            "id": 2,
+            "amount":5
+        },
+        {
+            "id": 3,
+            "amount": 2
+        },
+        {
+            "id": 4,
+            "amount": 1
+        },
+        {
+            "id": 5,
+            "amount": 5
+        },
+        {
+            "id": 6,
+            "amount": 10
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Jordan brabo do brabo 1",
+            "price": 2039.90,
+            "image": "https://5.imimg.com/data5/JK/TL/MY-9581609/jordan-super-fly-shoe-500x500.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Jordan brabo do brabo 2",
+            "price": 2139.90,
+            "image": "https://5.imimg.com/data5/JK/TL/MY-9581609/jordan-super-fly-shoe-500x500.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Jordan brabo do brabo 3",
+            "price": 1239.90,
+            "image": "https://5.imimg.com/data5/JK/TL/MY-9581609/jordan-super-fly-shoe-500x500.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Jordan brabo do brabo 4",
+            "price": 2339.90,
+            "image": "https://5.imimg.com/data5/JK/TL/MY-9581609/jordan-super-fly-shoe-500x500.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Jordan brabo do brabo 5",
+            "price": 239.90,
+            "image": "https://5.imimg.com/data5/JK/TL/MY-9581609/jordan-super-fly-shoe-500x500.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Jordan brabo do brabo 6",
+            "price": 2209.90,
+            "image": "https://5.imimg.com/data5/JK/TL/MY-9581609/jordan-super-fly-shoe-500x500.jpg"
+        }
+    ]
+}
