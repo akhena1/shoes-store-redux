@@ -36,7 +36,10 @@ para manipualação de estados globais em um ecommerce
 ### Para executar a aplicação em sua própria máquina, clone este repositório ou faça o download, extraia o arquivo e execute os seguintes passos: 
 
 - [ ] Abra o seu terminal na raiz do diretório
+
 - [ ] Execute o comando ```npm install``` ou ```yarn``` para fazer o download das dependências
+
 - [ ] Execute o comando ```json-server server.json -p 3333``` para rodar nossa FakeAPI. Para evitar problemas, caso não tenha o json-server instalado globalmente em sua máquina, execute o comando  ```npm i -g json-server```
+
 - [ ] Com a nossa API rodando em um terminal, abra um novo terminal e execute o comando ```npm start``` ou ```yarn start``` e o projeto será aberto em seu navegador.
 
