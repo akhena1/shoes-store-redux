@@ -33,7 +33,7 @@ para manipualação de estados globais em um ecommerce
 .
 
 
-### Para executar a aplicação em sua própria máquina, clone este repositório ou faça o download, extraia o arquivo e execute os seguintes passos: 
+### Para executar a aplicação em sua própria máquina, clone este repositório ou faça o download, extraia os arquivos e execute os seguintes passos: 
 
 - [ ] Abra o seu terminal na raiz do diretório
 
